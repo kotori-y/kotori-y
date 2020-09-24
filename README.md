@@ -10,7 +10,7 @@ Hi, I'm **Kotori** 👋
 <br />
 
 [![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true)](https://github.com/kotori-y)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" width="400px">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" width="300px">
 
 
 <br />
