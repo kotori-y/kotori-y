@@ -5,7 +5,7 @@ Hi, I'm **Kotori** 👋
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-cheminformatics-brightgreen)
 ![living](https://img.shields.io/badge/living-changsha-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=kotori-y.github.profile)
+![blog](https://blog.iamkotori.com/)
 
 <br />
 
