@@ -9,8 +9,8 @@ Hi, I'm **Kotori** 👋
 
 <br />
 
-[![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true)](https://github.com/kotori-y)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" width="300px">
+[![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true)](https://github.com/kotori-y) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact)
+
 
 
 <br />
