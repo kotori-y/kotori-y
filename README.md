@@ -9,7 +9,7 @@ Hi, I'm **Kotori** 👋
 
 <br />
 
-[![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true)](https://github.com/kotori-y) 
+[![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true&theme=gotham)](https://github.com/kotori-y) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact)
 
 
