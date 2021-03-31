@@ -13,4 +13,4 @@ Hi, I'm **Kotori** 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact)
 
 
-<img alt="" src="https://github-profile-trophy.vercel.app/?username=kotori-y&theme=dracula" />
+<img alt="" src="https://github-profile-trophy.vercel.app/?username=kotori-y&theme=nord" />
