@@ -13,6 +13,8 @@ Hi, I'm **Kotori** 👋
 
 <img alt="" src="https://github-profile-trophy.vercel.app/?username=kotori-y&theme=nord" />
 
+<hr>
+
 <details>
     <summary><b>个人简历</b></summary>
     <h2 id="-">教育经历</h2>
