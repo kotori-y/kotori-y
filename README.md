@@ -8,7 +8,7 @@ Hi, I'm **Kotori** 👋
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kotori-y)  
 
-[![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true&theme=gotham)](https://github.com/kotori-y) 
+[![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true&theme=gotham&count_private=true)](https://github.com/kotori-y) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact&theme=gotham)](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&layout=compact)
 
 <img alt="" src="https://github-profile-trophy.vercel.app/?username=kotori-y&theme=nord" />
