@@ -11,7 +11,7 @@ Hi, I'm **Kotori** 👋
 [![Kotori-y's github stats](https://github-readme-stats.vercel.app/api?username=kotori-y&show_icons=true&theme=gotham&count_private=true)](https://github.com/kotori-y) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotori-y&hide=jupyter%20notebook,css,html&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="" src="https://github-profile-trophy.vercel.app/?username=kotori-y&theme=nord" />
+<img alt="" src="https://github-profile-trophy.vercel.app/?username=kotori-y&theme=nord&column=7" />
 
 <hr>
 
