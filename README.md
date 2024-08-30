@@ -3,7 +3,7 @@
 Hi, I'm **Kotori** 👋
 
 
-[![blog](https://img.shields.io/badge/blog-iamkotori-blueviolet)](https://blog.kotori.wiki/)
+[![blog](https://img.shields.io/badge/blog-iamkotori-blueviolet)](https://blog.zhijiang.me/)
 <br />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kotori-y)  
