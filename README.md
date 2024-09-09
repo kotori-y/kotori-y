@@ -70,10 +70,6 @@ Hi, I'm **Kotori** 👋
 <li>熟悉动态规划、二分查找、回溯等算法；</li>
 <li>了解C++, Go, R等主流编程语言。</li>
 </ul>
-<h2 id="-">自我评价</h2>
-<p>学习能力强，拥有丰富的项目开发经验，在无任何计算机背景下，自学了Python, JavaScript等编程语言及各种机器学习算法；</p>
-<p>对计算机和计算化学充满热情，在课余时间学习了RDKit等化学信息学工具及网络爬虫；</p>
-<p>乐于合作，具有团队精神，经常对同门提供代码支持。</p>
 <h2 id="-">研究成果</h2>
 <ol>
 <li>Z. Yang, <strong>Z. Yang</strong>, J. Dong, L. Wang, L. Zhang, J. Ding, X. Ding, A. Lu, T. Hou, and D. Cao, Structural analysis and identification of colloidal aggregators in drug discovery. Journal of chemical information and modeling 59 (2019) 3714-3726.</li>
